@@ -5,6 +5,11 @@ const credentials = {
 }
 
 /*
+*
+* https://eu.mixpanel.com/s/1t7oFe
+* */
+
+/*
 Product School : Advanced Behavorial Analytics
 with AK 
 ak@mixpanel.com
